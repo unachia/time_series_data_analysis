@@ -1,6 +1,5 @@
-![line_pic](https://github.com/user-attachments/assets/0ed99b97-5620-48be-8b44-310193ba4041)
+# Sales forecasting
 <img src="https://github.com/user-attachments/assets/0ed99b97-5620-48be-8b44-310193ba4041" width=50% height=50%>
-# Sales forecasting 
 Goal: Utilize the provided historical dataset to forecast the upcoming 6 months.
 This is a time series problem, we need to use lagged values which are previous values of the time series used as predictors for future values.
 For example, to predict the value at time t, we can use the values at times t−1, t−2, etc., as features.
