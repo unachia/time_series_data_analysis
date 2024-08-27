@@ -19,3 +19,8 @@ trends or irregularities.
 3. Is there interdependence among product sales?
  Recognizing the potential interconnectedness or influence of product sales on each other is crucial. Factors like cross-selling, complementary products, or markets
 affect the sales performance of individual products.
+
+#### Data Exploration
+#### Model Building: Construct the LSTM model using Keras.
+#### Training: Train the model using your sales data.
+#### Prediction: Use the trained model to predict and forecast future sales.
