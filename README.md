@@ -1,4 +1,4 @@
-![line_pic](https://github.com/user-attachments/assets/0ed99b97-5620-48be-8b44-310193ba4041){: width="50%"}
+![line_pic](https://github.com/user-attachments/assets/0ed99b97-5620-48be-8b44-310193ba4041=100*100)
 
 # Sales forecasting 
 Goal: Utilize the provided historical dataset to forecast the upcoming 6 months.
