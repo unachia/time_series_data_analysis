@@ -1,4 +1,4 @@
-![90457](https://github.com/user-attachments/assets/e504c22b-f596-47a3-8090-10499bd67a7a)
+![90457](https://github.com/user-attachments/assets/e504c22b-f596-47a3-8090-10499bd67a7a | width=100)
 # Sales forecasting 
 Goal: Utilize the provided historical dataset to forecast the upcoming 6 months.
 This is a time series problem, we need to use lagged values which are previous values of the time series used as predictors for future values.
