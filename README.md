@@ -15,4 +15,12 @@ trends or irregularities.
 
 3. Is there interdependence among product sales?
  Recognizing the potential interconnectedness or influence of product sales on each other is crucial. Factors like cross-selling, complementary products, or markets
-affect the sales performance of individual products. However, upon reviewing the line graph, there are no similar trends among the three products.
+affect the sales performance of individual products.
+
+#### Data Exploration
+``
+rawdata=pd.read_csv("./assessment_data_set.csv")
+``
+
+Upon reviewing the line graph, I found no similar trends among the three products.
+
